@@ -1,0 +1,16 @@
+﻿EXE:pbfileservice.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 25.0.0.3683
+CMP:0,0,0,3,0,0,1
+COM:RSRSYSTEM
+DES:Appeon Power Builder 2025 Product File 64Bits
+CPY:Ramón San Félix Ramón
+PRD:pbfileservice2025
+PVS:2025.1.3683.15
+PVN:2025,1,3683,15
+FVS:2025.1.3683.15
+FVN:2025,1,3683,15
+MAN:0,asInvoker,0
+PBD:pbfileservice.pbl,,1
+PBD:dotnet.pbl,,1
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbfileservice\pbfileservice.pbl,w_main,w
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbfileservice\pbfileservice.pbl,pbfileservice,a
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\pbfileservice\dotnet.pbl,nvo_fileservice,u
